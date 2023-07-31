@@ -1,6 +1,6 @@
 # Notes
 My first Node App
-### :gear: Help Options 
+### :gear: :wrench: Help Options 
 
 ```
 Options:
